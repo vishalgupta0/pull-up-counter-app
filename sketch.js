@@ -246,3 +246,4 @@ function inDownPosition() {
     upPosition = false;
   }
 }
+
